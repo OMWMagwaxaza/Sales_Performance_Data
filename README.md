@@ -34,11 +34,11 @@ In Python, I used:
 
 The following key questions were explored:
 
-1. **Which region generated the highest total sales**, and what factors might have contributed to this?
-2. **How do total sales compare across salespersons**, and who were the **top 3 performers**?
-3. What are the **monthly sales trends for each product category**, and which product showed **consistent growth**?
-4. Is there a significant difference in **sales performance between regions** in terms of **units sold** and **revenue**?
-5. Which products had the **highest and lowest average unit prices**, and how did this impact overall sales revenue?
-6. How do **total sales and units sold vary by region and product combinations**?
-7. **Which month had the highest total sales**, and which **product or region dominated** that month?
-8. If bonuses are to be assigned, what are the **recommendations for top-performing salespersons and regions**?
+1. Which region generated the highest total sales, and what factors might have contributed to this?
+2. ow do total sales compare across salespersons, and who were the top 3 performers?
+3. What are the monthly sales trends for each product category, and which product showed consistent growth?
+4. Is there a significant difference in sales performance between regions in terms of units sold and revenue?
+5. Which products had the highest and lowest average unit prices, and how did this impact overall sales revenue?
+6. How do total sales and units sold vary by region and product combinations?
+7. Which month had the highest total sales, and which product or region dominated that month?
+8. If bonuses are to be assigned, what are the recommendations for top-performing salespersons and regions?
