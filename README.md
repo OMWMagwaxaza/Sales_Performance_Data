@@ -42,3 +42,5 @@ The following key questions were explored:
 6. How do total sales and units sold vary by region and product combinations?
 7. Which month had the highest total sales, and which product or region dominated that month?
 8. If bonuses are to be assigned, what are the recommendations for top-performing salespersons and regions?
+
+📄 **Detailed answers and analysis are provided in the accompanying PDF report.**
